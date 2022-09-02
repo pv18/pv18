@@ -5,7 +5,13 @@
 ### Connect with me:
 
 [<img align="left" alt="PavelVasiliev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg">][vk]
-[<img align="left" alt="PavelVasiliev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg">][telegram]
+[<img align="left" alt="PavelVasiliev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">][instagram]
+[<img align="left" alt="PavelVasiliev | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg">][telegram]
+
+<br/>
+
+### Connect with me: Languages and Tools:
+
 
 
 <!--
@@ -27,4 +33,5 @@ Here are some ideas to get you started:
 <br/>
 
 [vk]: https://vk.com/id196874068
+[instagram]: https://www.instagram.com/pavel_vas_ev/?hl=d
 [telegram]: https://t.me/p_v18
