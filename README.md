@@ -25,4 +25,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=#B4068E)](https://www.instagram.com/pavel_vas_ev/?hl=d)
 [![Vkontakte](https://img.shields.io/badge/Vkontakte-090909?style=for-the-badge&logo=VK&logoColor=#0077FF)](https://vk.com/id196874068)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?pv18=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?https://github.com/pv18=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
