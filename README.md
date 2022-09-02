@@ -5,6 +5,7 @@
 ### Connect with me:
 
 [<img align="left" alt="PavelVasiliev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg">][vk]
+[<img align="left" alt="PavelVasiliev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg">][telegram]
 
 
 <!--
@@ -25,4 +26,5 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-[vk]: https://vk.com/feed
+[vk]: https://vk.com/id196874068
+[telegram]: https://t.me/p_v18
