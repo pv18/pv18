@@ -20,7 +20,10 @@
 ![HTML](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=React&logoColor=#61DAFB)
 ![HTML](https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=Redux&logoColor=#764ABC)
 ![HTML](https://img.shields.io/badge/ReactRouter-090909?style=for-the-badge&logo=ReactRouter&logoColor=#CA4245)
+![HTML](https://img.shields.io/badge/ReactHookForm-090909?style=for-the-badge&logo=ReactHookForm&logoColor=#EC5990)
 ![HTML](https://img.shields.io/badge/MUI-090909?style=for-the-badge&logo=MUI&logoColor=#007FFF)
+![HTML](https://img.shields.io/badge/StyledComponents-090909?style=for-the-badge&logo=styled-components&logoColor=#DB7093)
+![HTML](https://img.shields.io/badge/AntDesign-090909?style=for-the-badge&logo=AntDesign&logoColor=#0170FE)
 
 
 <!--
