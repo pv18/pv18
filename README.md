@@ -1,8 +1,10 @@
+![Header](https://github.com/pv18/pv18/blob/main/assets/header.jpg)
+
 ### Hi there 👋, I'm Pavel
 
 ## I'm a FrontEnd Developer
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="PavelVasiliev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg">][vk]
 [<img align="left" alt="PavelVasiliev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">][instagram]
@@ -10,7 +12,7 @@
 
 <br/>
 
-### Connect with me: Languages and Tools:
+## Connect with me: Languages and Tools:
 
 
 
