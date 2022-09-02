@@ -14,11 +14,12 @@
 
 ![HTML](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=#E34F26)
 ![HTML](https://img.shields.io/badge/CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=#1572B6)
-![HTML](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E)
 ![HTML](https://img.shields.io/badge/Sass-090909?style=for-the-badge&logo=Sass&logoColor=#CC6699)
+![HTML](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E)
+![HTML](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=#3178C6)
 ![HTML](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=React&logoColor=#61DAFB)
 ![HTML](https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=Redux&logoColor=#764ABC)
-![HTML](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=#3178C6)
+![HTML](https://img.shields.io/badge/ReactRouter-090909?style=for-the-badge&logo=ReactRouter&logoColor=#CA4245)
 ![HTML](https://img.shields.io/badge/MUI-090909?style=for-the-badge&logo=MUI&logoColor=#007FFF)
 
 
