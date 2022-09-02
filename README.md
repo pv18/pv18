@@ -21,13 +21,10 @@
 
 ## Connect with me:
 
-![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#27A0D9)
-![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=#B4068E)
-![Vkontakte](https://img.shields.io/badge/Vkontakte-090909?style=for-the-badge&logo=Vkontakte&logoColor=#4F7DB3)
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#27A0D9)](https://t.me/p_v18)
+[![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=#B4068E)](https://www.instagram.com/pavel_vas_ev/?hl=d)
+[![Vkontakte](https://img.shields.io/badge/Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=#4F7DB3)](https://vk.com/id196874068)
 
-[<img align="left" alt="PavelVasiliev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg"/>][vk]
-[<img align="left" alt="PavelVasiliev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
-[<img align="left" alt="PavelVasiliev | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>][telegram]
 
 
 
