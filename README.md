@@ -1,19 +1,18 @@
 ![Header](https://github.com/pv18/pv18/blob/main/assets/header.jpg)
 
-### Hi there 👋, I'm Pavel
-
-## I'm a FrontEnd Developer
+## Hi there 👋, I'm Pavel. I'm a FrontEnd Developer
 
 ## Connect with me:
 
-[<img align="left" alt="PavelVasiliev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg">][vk]
-[<img align="left" alt="PavelVasiliev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">][instagram]
-[<img align="left" alt="PavelVasiliev | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg">][telegram]
+[<img align="left" alt="PavelVasiliev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg"/>][vk]
+[<img align="left" alt="PavelVasiliev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
+[<img align="left" alt="PavelVasiliev | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>][telegram]
 
 <br/>
 
-## Connect with me: Languages and Tools:
+## Languages and Tools:
 
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html)
 
 
 <!--
