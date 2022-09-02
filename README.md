@@ -23,31 +23,6 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#27A0D9)](https://t.me/p_v18)
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=#B4068E)](https://www.instagram.com/pavel_vas_ev/?hl=d)
-[![Vkontakte](https://img.shields.io/badge/Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=#4F7DB3)](https://vk.com/id196874068)
+[![Vkontakte](https://img.shields.io/badge/Vkontakte-090909?style=for-the-badge&logo=VK&logoColor=#0077FF)](https://vk.com/id196874068)
 
-
-
-
-<!--
-**pv18/pv18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<br/>
-<br/>
-
-[vk]: https://vk.com/id196874068
-
-[instagram]: https://www.instagram.com/pavel_vas_ev/?hl=d
-
-[telegram]: https://t.me/p_v18
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?pv18=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
