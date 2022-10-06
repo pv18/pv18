@@ -1,8 +1,14 @@
 ![Header](https://github.com/pv18/pv18/blob/main/assets/header.jpg)
 
-### Hi there 👋, I'm Pavel. I'm a FrontEnd Developer
+### Connect with me:
 
-## ⚡ Technologies
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#27A0D9)](https://t.me/p_v18)
+[![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=#B4068E)](https://www.instagram.com/pavel_vas_ev/?hl=d)
+[![Vkontakte](https://img.shields.io/badge/Vkontakte-090909?style=for-the-badge&logo=VK&logoColor=#0077FF)](https://vk.com/id196874068)
+
+<br/>
+
+### ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -25,12 +31,6 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
 
-<br/>
 
-## Connect with me:
-
-[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#27A0D9)](https://t.me/p_v18)
-[![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=#B4068E)](https://www.instagram.com/pavel_vas_ev/?hl=d)
-[![Vkontakte](https://img.shields.io/badge/Vkontakte-090909?style=for-the-badge&logo=VK&logoColor=#0077FF)](https://vk.com/id196874068)
 
 
