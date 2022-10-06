@@ -2,20 +2,28 @@
 
 ### Hi there 👋, I'm Pavel. I'm a FrontEnd Developer
 
-## Languages and Tools:
+## ⚡ Technologies
 
- ![HTML](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=#E34F26)
- ![CSS3](https://img.shields.io/badge/CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=#1572B6)
- ![Sass](https://img.shields.io/badge/Sass-090909?style=for-the-badge&logo=Sass&logoColor=#CC6699)
- ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E)
- ![TypeScript](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=#3178C6)
- ![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=React&logoColor=#61DAFB)
- ![Redux](https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=Redux&logoColor=#764ABC)
- ![ReactRouter](https://img.shields.io/badge/ReactRouter-090909?style=for-the-badge&logo=ReactRouter&logoColor=#CA4245)
- ![ReactHookForm](https://img.shields.io/badge/ReactHookForm-090909?style=for-the-badge&logo=ReactHookForm&logoColor=#EC5990)
- ![MUI](https://img.shields.io/badge/MUI-090909?style=for-the-badge&logo=MUI&logoColor=#007FFF)
- ![StyledComponents](https://img.shields.io/badge/StyledComponents-090909?style=for-the-badge&logo=styled-components&logoColor=#DB7093)
- ![AntDesign](https://img.shields.io/badge/AntDesign-090909?style=for-the-badge&logo=AntDesign&logoColor=#0170FE)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
 
 <br/>
 
