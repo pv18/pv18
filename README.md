@@ -10,15 +10,6 @@
 
 ---
 
-## 🧑‍💻 О себе
-
-- 🔭 Пишу веб-приложения на **TypeScript**: SPA, PWA и админ-панели
-- ⚙️ Бэкенд — **Node.js** и **Go**, мобильные прототипы — **Flutter**
-- 🤖 Люблю автоматизацию: от скриптов на **Python** до CI на **GitHub Actions**
-- 📫 Быстрый способ связаться — [Telegram](https://t.me/p_v18)
-
----
-
 ## 🔗 Connect with me
 
 <div align="center">
