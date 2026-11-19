@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="450" viewBox="0 0 1600 450" role="img" aria-label="Pavel Vasilev — pv18">
+  <defs>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58e6ff"/>
+      <stop offset="1" stop-color="#c084fc"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-40%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1b2230" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="450" fill="#0d1117"/>
+  <rect width="1600" height="450" fill="url(#grid)"/>
+
+  <!-- terminal window -->
+  <rect x="230" y="80" width="1140" height="290" rx="16" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+  <circle cx="270" cy="116" r="9" fill="#ff5f56"/>
+  <circle cx="298" cy="116" r="9" fill="#ffbd2e"/>
+  <circle cx="326" cy="116" r="9" fill="#27c93f"/>
+  <text x="800" y="122" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#8b949e">pv18 — profile.md</text>
+  <line x1="230" y1="140" x2="1370" y2="140" stroke="#30363d" stroke-width="2"/>
+
+  <!-- prompt -->
+  <text x="270" y="190" font-family="Consolas, 'Courier New', monospace" font-size="24" fill="#27c93f">pavel@pv18</text>
+  <text x="438" y="190" font-family="Consolas, 'Courier New', monospace" font-size="24" fill="#8b949e">:~$</text>
+  <text x="500" y="190" font-family="Consolas, 'Courier New', monospace" font-size="24" fill="#e6edf3">whoami</text>
+
+  <!-- name -->
+  <text x="270" y="266" filter="url(#glow)" font-family="Consolas, 'Courier New', monospace" font-size="58" font-weight="bold" fill="#e6edf3">Pavel Vasilev <tspan fill="url(#neon)">@pv18</tspan></text>
+
+  <!-- role -->
+  <text x="270" y="322" font-family="Consolas, 'Courier New', monospace" font-size="26" fill="#58e6ff">Full-Stack Developer · TypeScript · React · Node.js · Go</text>
+  <rect x="1162" y="300" width="14" height="28" fill="url(#neon)"/>
+</svg>
