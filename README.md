@@ -10,55 +10,6 @@
 
 ---
 
-## 🔗 Connect with me
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/p_v18)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/pavel_vas_ev/?hl=d)
-[![VK](https://img.shields.io/badge/VK-0D1117?style=for-the-badge&logo=vk&logoColor=0077FF)](https://vk.com/id196874068)
-
-</div>
-
----
-
-## ⚡ Технологии
-
-### 🗣 Языки
-
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![Dart](https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=0175C2)
-
-### 🖥 Frontend
-
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![Redux](https://img.shields.io/badge/Redux-0D1117?style=for-the-badge&logo=redux&logoColor=764ABC)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![Sass](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=CC6699)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-### ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF)
-![GraphQL](https://img.shields.io/badge/GraphQL-0D1117?style=for-the-badge&logo=graphql&logoColor=E10098)
-![Apollo GraphQL](https://img.shields.io/badge/Apollo-0D1117?style=for-the-badge&logo=apollographql&logoColor=311C87)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-
-### 🧰 Инструменты
-
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-
----
-
 ## 📊 GitHub Stats
 
 <table align="center">
