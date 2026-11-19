@@ -10,20 +10,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pv18&theme=radical" alt="GitHub stats" width="100%" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pv18&layout=compact&locale=ru&hide_border=true&theme=radical&langs_count=8" alt="Топ языков" width="100%" />
-    </td>
-  </tr>
-</table>
-
-### 🔥 Streak
+## 🔥 Streak
 
 <div align="center">
 
