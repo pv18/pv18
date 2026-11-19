@@ -14,7 +14,7 @@
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=pv18&locale=ru&hide_border=true&theme=radical&short_counts=false)
+![Streak](https://streak-stats.demolab.com?user=pv18&locale=ru&hide_border=true&theme=radical&short_counts=false&cache_bust=20261119)
 
 </div>
 
