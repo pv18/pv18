@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="assets/header.svg" alt="Pavel Vasilev — pv18" width="100%" />
+﻿<p align="center">
+  <img src="assets/header.svg" alt="Pavel Vasilev вЂ” pv18" width="100%" />
 </p>
 
 <div align="center">
@@ -10,16 +10,16 @@
 
 ---
 
-## 🧑‍💻 О себе
+## рџ§‘вЂЌрџ’» Рћ СЃРµР±Рµ
 
-- 🔭 Пишу веб-приложения на **TypeScript**: SPA, PWA и админ-панели
-- ⚙️ Бэкенд — **Node.js** и **Go**, мобильные прототипы — **Flutter**
-- 🤖 Люблю автоматизацию: от скриптов на **Python** до CI на **GitHub Actions**
-- 📫 Быстрый способ связаться — [Telegram](https://t.me/p_v18)
+- рџ”­ РџРёС€Сѓ РІРµР±-РїСЂРёР»РѕР¶РµРЅРёСЏ РЅР° **TypeScript**: SPA, PWA Рё Р°РґРјРёРЅ-РїР°РЅРµР»Рё
+- вљ™пёЏ Р‘СЌРєРµРЅРґ вЂ” **Node.js** Рё **Go**, РјРѕР±РёР»СЊРЅС‹Рµ РїСЂРѕС‚РѕС‚РёРїС‹ вЂ” **Flutter**
+- рџ¤– Р›СЋР±Р»СЋ Р°РІС‚РѕРјР°С‚РёР·Р°С†РёСЋ: РѕС‚ СЃРєСЂРёРїС‚РѕРІ РЅР° **Python** РґРѕ CI РЅР° **GitHub Actions**
+- рџ“« Р‘С‹СЃС‚СЂС‹Р№ СЃРїРѕСЃРѕР± СЃРІСЏР·Р°С‚СЊСЃСЏ вЂ” [Telegram](https://t.me/p_v18)
 
 ---
 
-## 🔗 Connect with me
+## рџ”— Connect with me
 
 <div align="center">
 
@@ -31,9 +31,9 @@
 
 ---
 
-## ⚡ Технологии
+## вљЎ РўРµС…РЅРѕР»РѕРіРёРё
 
-### 🗣 Языки
+### рџ—Ј РЇР·С‹РєРё
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -41,7 +41,7 @@
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Dart](https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=0175C2)
 
-### 🖥 Frontend
+### рџ–Ґ Frontend
 
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
@@ -51,7 +51,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-### ⚙️ Backend
+### вљ™пёЏ Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
 ![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF)
@@ -60,7 +60,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
-### 🧰 Инструменты
+### рџ§° РРЅСЃС‚СЂСѓРјРµРЅС‚С‹
 
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
@@ -68,20 +68,20 @@
 
 ---
 
-## 📊 GitHub Stats
+## рџ“Љ GitHub Stats
 
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=pv18&show_icons=true&locale=ru&include_all_commits=true&count_private=true&hide_border=true&theme=radical" alt="GitHub stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=pv18&show_icons=true&locale=ru&include_all_commits=true&hide_border=true&theme=radical" alt="GitHub stats" width="100%" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pv18&layout=compact&locale=ru&hide_border=true&theme=radical&langs_count=8" alt="Топ языков" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pv18&layout=compact&locale=ru&hide_border=true&theme=radical&langs_count=8" alt="РўРѕРї СЏР·С‹РєРѕРІ" width="100%" />
     </td>
   </tr>
 </table>
 
-### 🔥 Streak
+### рџ”Ґ Streak
 
 <div align="center">
 
@@ -91,16 +91,16 @@
 
 ---
 
-## 🐍 Вклад в коммитах
+## рџђЌ Р’РєР»Р°Рґ РІ РєРѕРјРјРёС‚Р°С…
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pv18/pv18/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pv18/pv18/output/github-contribution-grid-snake.svg" />
-  <img alt="Змейка поедает мои коммиты" src="https://raw.githubusercontent.com/pv18/pv18/output/github-contribution-grid-snake.svg" />
+  <img alt="Р—РјРµР№РєР° РїРѕРµРґР°РµС‚ РјРѕРё РєРѕРјРјРёС‚С‹" src="https://raw.githubusercontent.com/pv18/pv18/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pv18&color=58E6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Просмотры профиля" />
+  <img src="https://komarev.com/ghpvc/?username=pv18&color=58E6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="РџСЂРѕСЃРјРѕС‚СЂС‹ РїСЂРѕС„РёР»СЏ" />
 </div>
